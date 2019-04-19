@@ -13,68 +13,360 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>pd_01</item>
-        <item>pd_02</item>
-        <item>pd_03</item>
-        <item>pd_04</item>
-        <item>pd_05</item>
-        <item>pd_06</item>
-        <item>pd_07</item>
-        <item>pd_08</item>
-        <item>pd_09</item>
-        <item>pd_10</item>
-        <item>pd_11</item>
-        <item>pd_12</item>
-        <item>pd_13</item>
-        <item>pd_14</item>
-        <item>pd_15</item>
-        <item>pd_16</item>
-        <item>pd_17</item>
-        <item>pd_18</item>
-        <item>pd_19</item>
-        <item>pd_20</item>
-        <item>pd_21</item>
-        <item>pd_22</item>
-        <item>pd_23</item>
-        <item>pd_24</item>
-        <item>pd_25</item>
-        <item>pd_26</item>
-        <item>pd_27</item>
-        <item>pd_28</item>
-        <item>pd_29</item>
-        <item>pd_30</item>
+    <item>wallpaper_01</item>
+    <item>wallpaper_02</item>
+    <item>wallpaper_03</item>
+    <item>wallpaper_04</item>
+    <item>wallpaper_05</item>
+    <item>wallpaper_06</item>
+    <item>wallpaper_07</item>
+    <item>wallpaper_08</item>
+    <item>wallpaper_09</item>
+    <item>wallpaper_10</item>
+    <item>wallpaper_11</item>
+    <item>wallpaper_12</item>
+    <item>wallpaper_13</item>
+    <item>wallpaper_14</item>
+    <item>wallpaper_15</item>
+    <item>wallpaper_16</item>
+    <item>wallpaper_17</item>
+    <item>wallpaper_18</item>
+    <item>wallpaper_19</item>
+    <item>wallpaper_20</item>
+    <item>wallpaper_21</item>
+    <item>wallpaper_22</item>
+    <item>wallpaper_23</item>
+    <item>wallpaper_24</item>
+    <item>wallpaper_25</item>
+    <item>wallpaper_26</item>
+    <item>wallpaper_27</item>
+    <item>wallpaper_28</item>
+    <item>wallpaper_29</item>
+    <item>wallpaper_30</item>
+    <item>wallpaper_31</item>
+    <item>wallpaper_32</item>
+    <item>wallpaper_33</item>
+    <item>wallpaper_34</item>
+    <item>wallpaper_35</item>
+    <item>wallpaper_36</item>
+    <item>wallpaper_37</item>
+    <item>wallpaper_38</item>
+    <item>wallpaper_39</item>
+    <item>wallpaper_40</item>
+    <item>wallpaper_41</item>
+    <item>wallpaper_42</item>
+    <item>wallpaper_43</item>
+    <item>wallpaper_44</item>
+    <item>wallpaper_45</item>
+    <item>wallpaper_46</item>
+    <item>wallpaper_47</item>
+    <item>wallpaper_48</item>
+    <item>wallpaper_49</item>
+    <item>wallpaper_50</item>
+    <item>wallpaper_51</item>
+    <item>wallpaper_52</item>
+    <item>wallpaper_53</item>
+    <item>wallpaper_54</item>
+    <item>wallpaper_55</item>
+    <item>wallpaper_56</item>
+    <item>wallpaper_57</item>
+    <item>wallpaper_58</item>
+    <item>wallpaper_59</item>
+    <item>wallpaper_60</item>
+    <item>wallpaper_61</item>
+    <item>wallpaper_62</item>
+    <item>wallpaper_63</item>
+    <item>wallpaper_64</item>
+    <item>wallpaper_65</item>
+    <item>wallpaper_66</item>
+    <item>wallpaper_67</item>
+    <item>wallpaper_68</item>
+    <item>wallpaper_69</item>
+    <item>wallpaper_70</item>
+    <item>wallpaper_71</item>
+    <item>wallpaper_72</item>
+    <item>wallpaper_73</item>
+    <item>wallpaper_74</item>
+    <item>wallpaper_75</item>
+    <item>wallpaper_76</item>
+    <item>wallpaper_77</item>
+    <item>wallpaper_78</item>
+    <item>wallpaper_79</item>
+    <item>wallpaper_80</item>
+    <item>wallpaper_81</item>
+    <item>wallpaper_82</item>
+    <item>wallpaper_83</item>
+    <item>wallpaper_84</item>
+    <item>wallpaper_85</item>
+    <item>wallpaper_86</item>
+    <item>wallpaper_87</item>
+    <item>wallpaper_88</item>
+    <item>wallpaper_89</item>
+    <item>wallpaper_90</item>
+    <item>wallpaper_91</item>
+    <item>wallpaper_92</item>
+    <item>wallpaper_93</item>
+    <item>wallpaper_94</item>
+    <item>wallpaper_95</item>
+    <item>wallpaper_96</item>
+    <item>wallpaper_97</item>
+    <item>wallpaper_98</item>
+    <item>wallpaper_99</item>
+    <item>wallpaper_100</item>
+    <item>wallpaper_101</item>
+    <item>wallpaper_102</item>
+    <item>wallpaper_103</item>
+    <item>wallpaper_104</item>
+    <item>wallpaper_105</item>
+    <item>wallpaper_106</item>
+    <item>wallpaper_107</item>
+    <item>wallpaper_108</item>
+    <item>wallpaper_109</item>
+    <item>wallpaper_110</item>
+    <item>wallpaper_111</item>
+    <item>wallpaper_112</item>
+    <item>wallpaper_113</item>
+    <item>wallpaper_114</item>
+    <item>wallpaper_115</item>
+    <item>wallpaper_116</item>
+    <item>wallpaper_117</item>
+    <item>wallpaper_118</item>
+    <item>wallpaper_119</item>
+    <item>wallpaper_120</item>
+    <item>wallpaper_121</item>
+    <item>wallpaper_122</item>
+    <item>wallpaper_123</item>
+    <item>wallpaper_124</item>
+    <item>wallpaper_125</item>
+    <item>wallpaper_126</item>
+    <item>wallpaper_127</item>
+    <item>wallpaper_128</item>
+    <item>wallpaper_129</item>
+    <item>wallpaper_130</item>
+    <item>wallpaper_131</item>
+    <item>wallpaper_132</item>
+    <item>wallpaper_133</item>
+    <item>wallpaper_134</item>
+    <item>wallpaper_135</item>
+    <item>wallpaper_136</item>
+    <item>wallpaper_137</item>
+    <item>wallpaper_138</item>
+    <item>wallpaper_139</item>
+    <item>wallpaper_140</item>
+    <item>wallpaper_141</item>
+    <item>wallpaper_142</item>
+    <item>wallpaper_143</item>
+    <item>wallpaper_144</item>
+    <item>wallpaper_145</item>
+    <item>wallpaper_146</item>
+    <item>wallpaper_147</item>
+    <item>wallpaper_148</item>
+    <item>wallpaper_149</item>
+    <item>wallpaper_150</item>
+    <item>wallpaper_151</item>
+    <item>wallpaper_152</item>
+    <item>wallpaper_153</item>
+    <item>wallpaper_154</item>
+    <item>wallpaper_155</item>
+    <item>wallpaper_156</item>
+    <item>wallpaper_157</item>
+    <item>wallpaper_158</item>
+    <item>wallpaper_159</item>
+    <item>wallpaper_160</item>
+    <item>wallpaper_161</item>
+    <item>wallpaper_162</item>
+    <item>wallpaper_163</item>
+    <item>wallpaper_164</item>
+    <item>wallpaper_165</item>
+    <item>wallpaper_166</item>
+    <item>wallpaper_167</item>
+    <item>wallpaper_168</item>
+    <item>wallpaper_169</item>
+    <item>wallpaper_170</item>
+    <item>wallpaper_171</item>
+    <item>wallpaper_172</item>
+    <item>wallpaper_173</item>
+    <item>wallpaper_174</item>
+    <item>wallpaper_175</item>
+    <item>wallpaper_176</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Pixel Dust - 01</item>
-        <item>Pixel Dust - 02</item>
-        <item>Pixel Dust - 03</item>
-        <item>Pixel Dust - 04</item>
-        <item>Pixel Dust - 05</item>
-        <item>Pixel Dust - 06</item>
-        <item>Pixel Dust - 07</item>
-        <item>Pixel Dust - 08</item>
-        <item>Pixel Dust - 09</item>
-        <item>Pixel Dust - 10</item>
-        <item>Pixel Dust - 11</item>
-        <item>Pixel Dust - 12</item>
-        <item>Pixel Dust - 13</item>
-        <item>Pixel Dust - 14</item>
-        <item>Pixel Dust - 15</item>
-        <item>Pixel Dust - 16</item>
-        <item>Pixel Dust - 17</item>
-        <item>Pixel Dust - 18</item>
-        <item>Pixel Dust - 19</item>
-        <item>Pixel Dust - 20</item>
-        <item>Pixel Dust - 21</item>
-        <item>Pixel Dust - 22</item>
-        <item>Pixel Dust - 23</item>
-        <item>Pixel Dust - 24</item>
-        <item>Pixel Dust - 25</item>
-        <item>Pixel Dust - 26</item>
-        <item>Pixel Dust - 27</item>
-        <item>Pixel Dust - 28</item>
-        <item>Pixel Dust - 29</item>
-        <item>Pixel Dust - 30</item>
+    <item>DerpFest 01</item>
+    <item>DerpFest 02</item>
+    <item>DerpFest 03</item>
+    <item>DerpFest 04</item>
+    <item>DerpFest 05</item>
+    <item>DerpFest 06</item>
+    <item>DerpFest 07</item>
+    <item>DerpFest 08</item>
+    <item>DerpFest 09</item>
+    <item>DerpFest 10</item>
+    <item>DerpFest 11</item>
+    <item>DerpFest 12</item>
+    <item>DerpFest 13</item>
+    <item>DerpFest 14</item>
+    <item>DerpFest 15</item>
+    <item>DerpFest 16</item>
+    <item>DerpFest 17</item>
+    <item>DerpFest 18</item>
+    <item>DerpFest 19</item>
+    <item>DerpFest 20</item>
+    <item>DerpFest 21</item>
+    <item>DerpFest 22</item>
+    <item>DerpFest 23</item>
+    <item>DerpFest 24</item>
+    <item>DerpFest 25</item>
+    <item>DerpFest 26</item>
+    <item>DerpFest 27</item>
+    <item>DerpFest 28</item>
+    <item>DerpFest 29</item>
+    <item>DerpFest 30</item>
+    <item>DerpFest 31</item>
+    <item>DerpFest 32</item>
+    <item>DerpFest 33</item>
+    <item>DerpFest 34</item>
+    <item>DerpFest 35</item>
+    <item>DerpFest 36</item>
+    <item>DerpFest 37</item>
+    <item>DerpFest 38</item>
+    <item>DerpFest 39</item>
+    <item>DerpFest 40</item>
+    <item>DerpFest 41</item>
+    <item>DerpFest 42</item>
+    <item>DerpFest 43</item>
+    <item>DerpFest 44</item>
+    <item>DerpFest 45</item>
+    <item>DerpFest 46</item>
+    <item>DerpFest 47</item>
+    <item>DerpFest 48</item>
+    <item>DerpFest 49</item>
+    <item>DerpFest 50</item>
+    <item>DerpFest 51</item>
+    <item>DerpFest 52</item>
+    <item>DerpFest 53</item>
+    <item>DerpFest 54</item>
+    <item>DerpFest 55</item>
+    <item>DerpFest 56</item>
+    <item>DerpFest 57</item>
+    <item>DerpFest 58</item>
+    <item>DerpFest 59</item>
+    <item>DerpFest 60</item>
+    <item>DerpFest 61</item>
+    <item>DerpFest 62</item>
+    <item>DerpFest 63</item>
+    <item>DerpFest 64</item>
+    <item>DerpFest 65</item>
+    <item>DerpFest 66</item>
+    <item>DerpFest 67</item>
+    <item>DerpFest 68</item>
+    <item>DerpFest 69</item>
+    <item>DerpFest 70</item>
+    <item>DerpFest 71</item>
+    <item>DerpFest 72</item>
+    <item>DerpFest 73</item>
+    <item>DerpFest 74</item>
+    <item>DerpFest 75</item>
+    <item>DerpFest 76</item>
+    <item>DerpFest 77</item>
+    <item>DerpFest 78</item>
+    <item>DerpFest 79</item>
+    <item>DerpFest 80</item>
+    <item>DerpFest 81</item>
+    <item>DerpFest 82</item>
+    <item>DerpFest 83</item>
+    <item>DerpFest 84</item>
+    <item>DerpFest 85</item>
+    <item>DerpFest 86</item>
+    <item>DerpFest 87</item>
+    <item>DerpFest 88</item>
+    <item>DerpFest 89</item>
+    <item>DerpFest 90</item>
+    <item>DerpFest 91</item>
+    <item>DerpFest 92</item>
+    <item>DerpFest 93</item>
+    <item>DerpFest 94</item>
+    <item>DerpFest 95</item>
+    <item>DerpFest 96</item>
+    <item>DerpFest 97</item>
+    <item>DerpFest 98</item>
+    <item>DerpFest 99</item>
+    <item>DerpFest 100</item>
+    <item>DerpFest 101</item>
+    <item>DerpFest 102</item>
+    <item>DerpFest 103</item>
+    <item>DerpFest 104</item>
+    <item>DerpFest 105</item>
+    <item>DerpFest 106</item>
+    <item>DerpFest 107</item>
+    <item>DerpFest 108</item>
+    <item>DerpFest 109</item>
+    <item>DerpFest 110</item>
+    <item>DerpFest 111</item>
+    <item>DerpFest 112</item>
+    <item>DerpFest 113</item>
+    <item>DerpFest 114</item>
+    <item>DerpFest 115</item>
+    <item>DerpFest 116</item>
+    <item>DerpFest 117</item>
+    <item>DerpFest 118</item>
+    <item>DerpFest 119</item>
+    <item>DerpFest 120</item>
+    <item>DerpFest 121</item>
+    <item>DerpFest 122</item>
+    <item>DerpFest 123</item>
+    <item>DerpFest 124</item>
+    <item>DerpFest 125</item>
+    <item>DerpFest 126</item>
+    <item>DerpFest 127</item>
+    <item>DerpFest 128</item>
+    <item>DerpFest 129</item>
+    <item>DerpFest 130</item>
+    <item>DerpFest 131</item>
+    <item>DerpFest 132</item>
+    <item>DerpFest 133</item>
+    <item>DerpFest 134</item>
+    <item>DerpFest 135</item>
+    <item>DerpFest 136</item>
+    <item>DerpFest 137</item>
+    <item>DerpFest 138</item>
+    <item>DerpFest 139</item>
+    <item>DerpFest 140</item>
+    <item>DerpFest 141</item>
+    <item>DerpFest 142</item>
+    <item>DerpFest 143</item>
+    <item>DerpFest 144</item>
+    <item>DerpFest 145</item>
+    <item>DerpFest 146</item>
+    <item>DerpFest 147</item>
+    <item>DerpFest 148</item>
+    <item>DerpFest 149</item>
+    <item>DerpFest 150</item>
+    <item>DerpFest 151</item>
+    <item>DerpFest 152</item>
+    <item>DerpFest 153</item>
+    <item>DerpFest 154</item>
+    <item>DerpFest 155</item>
+    <item>DerpFest 156</item>
+    <item>DerpFest 157</item>
+    <item>DerpFest 158</item>
+    <item>DerpFest 159</item>
+    <item>DerpFest 160</item>
+    <item>DerpFest 161</item>
+    <item>DerpFest 162</item>
+    <item>DerpFest 163</item>
+    <item>DerpFest 164</item>
+    <item>DerpFest 165</item>
+    <item>DerpFest 166</item>
+    <item>DerpFest 167</item>
+    <item>DerpFest 168</item>
+    <item>DerpFest 169</item>
+    <item>DerpFest 170</item>
+    <item>DerpFest 171</item>
+    <item>DerpFest 172</item>
+    <item>DerpFest 173</item>
+    <item>DerpFest 174</item>
+    <item>DerpFest 175</item>
+    <item>DerpFest 176</item>
     </string-array>
 </resources>

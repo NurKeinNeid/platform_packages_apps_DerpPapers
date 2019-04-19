@@ -22,6 +22,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 LOCAL_SDK_VERSION := current
 LOCAL_MIN_SDK_VERSION := 21
 LOCAL_MODULE_TAGS := optional
-LOCAL_PACKAGE_NAME := PixelDustWallpapers
+LOCAL_PACKAGE_NAME := DerpPapers
 
 include $(BUILD_PACKAGE)
